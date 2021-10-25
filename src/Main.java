@@ -25,7 +25,7 @@ public class Main {
 
         int[] a = new int[5];
         int i = 0;
-        int m = 11;
+
 
         Scanner in = new Scanner(System.in);
 
