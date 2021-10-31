@@ -8,7 +8,7 @@ public class Main {
 
 
     public static void main(String[] args) {
-        /* ćw_6 Listy */
+
        System.out.println("Wpisz imiena zwierzat: ");
        Scanner in = new Scanner(System.in);
        List<String> zwierzata = new ArrayList<>();
