@@ -5,7 +5,7 @@ import java.util.*;
 
 public class Main {
 
-
+/* A zadanie z Listami? */
 
     public static void main(String[] args) {
         System.out.println("Podaj 10 liczb");
